@@ -3,6 +3,7 @@ import "./App.css";
 import Login from "./Login";
 import { getTokenFromResponse } from "./spotify";
 import SpotifyWebApi from "spotify-web-api-js";
+import Player from "./Player";
 
 const spotify = new SpotifyWebApi();
 
