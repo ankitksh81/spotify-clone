@@ -14,8 +14,8 @@
 }
 
 .footer__left {
-    flex: 0.3;
     display: flex;
+    flex: 0.3;
     align-items: center;
     color: white;
     width: 300px;
@@ -59,6 +59,6 @@
     margin-bottom: 5px;
 }
 
-.footer__songInfo > h3 {
+.footer__songInfo > p {
     font-size: 12px;
 }
